@@ -2,7 +2,6 @@
  >[!WARNING]
 > "Guns don't kill people, I do."
 
-
 <p align="center">
 <img src="https://i.postimg.cc/kMvyVtbV/tumblr-3d13301fedec7311a03f402ad822fbea-b8e49728-400.png">
 
@@ -15,6 +14,9 @@
  ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://gimplr.atabook.org/">ata</a>$${\color{#DE3535}book ㅤ}$$ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://en.pronouns.page/@doitsu">prns</a>$${\color{#DE3535}page ㅤ}$$ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://spacehey.com/biggestfootest">space</a>$${\color{#DE3535}hey ㅤ}$$
 
 </p>
+ㅤ ‎ ‎
+ㅤ ‎ ‎
+ㅤ ‎ ‎
 
 <p align="center">
 
@@ -55,6 +57,22 @@ $${\color{#D13030} 16ㅤㅤㅤ,ㅤㅤㅤoctoberㅤ6ㅤ2009ㅤ🎂}$$
 <p align="center">
 
 <h2 align="center"> <img src="https://i.postimg.cc/cLxJ0hgC/tumblr-c63c439224954c7f7b188139bbc81ace-a9b96621-400.webp"> <img src="https://i.postimg.cc/0Nr2JN0X/tumblr-51a9f25a54d9315941e490a3639a5cc2-97d07008-400.webp"> <img src="https://i.postimg.cc/hvRSw1Rd/tumblr-1b4a73974811fd795ed41a9cec0c02c6-cb6877b5-400.webp"> </h2>
+
+</p>
+
+<h1 align="center">⋅/ᐠ - ˕ -マ⁩࿔ . dni .ᐟ ›⋅</h1>
+
+<p align="center">
+
+<h align="center">$${\color{#DE3535}  TCC}$$</h>
+
+<h align="center">$${\color{#DE3535}  DARKSHIP}$$</h>
+
+<h align="center">$${\color{#DE3535}  RADQUEER}$$</h>
+
+<h align="center">$${\color{#DE3535}  -14,ㅤ ‎ 21+}$$</h>
+
+<h align="center">$${\color{#DE3535}  BIGOTS}$$</h>
 
 </p>
 

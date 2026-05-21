@@ -15,13 +15,3 @@
 
 
 
-
-> git init
->
-> git add README.md
->
-> git commit -m "readme.md"
->
-> git remote add origin https://github.com/MercyJames/MyRepo.git
->
-> git push -u origin master

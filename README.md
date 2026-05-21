@@ -1,11 +1,18 @@
 
  >[!WARNING]
-> Guns don't kill people, I do.
+> "Guns don't kill people, I do."
 
- <h1 align="center">Bring out the GIMP</h1>
 
 <p align="center">
 <img src="https://i.postimg.cc/kMvyVtbV/tumblr-3d13301fedec7311a03f402ad822fbea-b8e49728-400.png">
+
+<img src="https://i.postimg.cc/mg22yKkP/tumblr-bb1786665a2d27a3bed4f3145ef49804-17804240-1280.png">
+
+ <h1 align="center">"Bring out the GIMP."</h1>
+
+ </p>
+
+ <p align="center">
 
 <img src="https://i.postimg.cc/MpF562jF/tumblr-11694261dc90ca2c30a0835bd5209650-70a28bd5-1280.jpg">
 

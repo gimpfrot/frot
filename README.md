@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎   <a href="https://gimplr.atabook.org/">ata</a>book   ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎      <a href="https://en.pronouns.page/@doitsu">prns</a>page
+ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://gimplr.atabook.org/">ata</a>book ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://en.pronouns.page/@doitsu">prns</a>page ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://spacehey.com/biggestfootest">space</a>hey
 
 </p>
 
@@ -35,6 +35,18 @@
 <img src="https://i.postimg.cc/MpF562jF/tumblr-11694261dc90ca2c30a0835bd5209650-70a28bd5-1280.jpg">
 
 <img src="https://i.postimg.cc/gkMqsFsQ/tumblr-537f96cf514775edd0e482863e4d2a8c-30a8286a-400.png">
+
+</p>
+
+<h2 align="center">"⋅⋆ ☆ ⋆ Info ⋆ ☆ ⋆⋅"</h2>
+
+<p align="center">
+
+ $${\color{#DE3535}  myㅤnameㅤisㅤfinnㅤ👅 ㅤ}$$
+ $${\color{#D13030}imㅤ16ㅤturningㅤ17,ㅤmyㅤbirthdayㅤisㅤoctoberㅤ6ㅤ2009. }$$
+$${\color{#C92C2C}imㅤaㅤfreakㅤandㅤiㅤloveㅤhangingㅤoutㅤwithㅤmyㅤfriends.ㅤdon’tㅤbeㅤscaredㅤtoㅤpmㅤmeㅤ:-) }$$
+
+<img src="https://i.postimg.cc/BbBFb6q6/tumblr-96d7447d71ac5b5d02bd359c9bef96ab-9a39b713-1280.png"/><a href="">.....IVO.....</a>
 
 </p>
 

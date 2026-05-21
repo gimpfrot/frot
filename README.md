@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://i.postimg.cc/kMvyVtbV/tumblr-3d13301fedec7311a03f402ad822fbea-b8e49728-400.png">
 
-<img src="https://i.postimg.cc/mg22yKkP/tumblr-bb1786665a2d27a3bed4f3145ef49804-17804240-1280.png">
+<img src="https://i.postimg.cc/tRnbdWbq/Untitled4-20260521110801.png">
 
  <h1 align="center">"Bring out the GIMP."</h1>
 

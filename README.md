@@ -1,8 +1,8 @@
 
->[!WARNING]
+ >[!WARNING]
 > Guns don't kill people, I do.
 
-# Bring out the **GIMP** 
+## Bring out the **GIMP** 
 
 
 <img src="https://i.postimg.cc/kMvyVtbV/tumblr-3d13301fedec7311a03f402ad822fbea-b8e49728-400.png">
@@ -21,6 +21,8 @@
 
 <a name="my-custom-anchor-point"></a>
 
-
+- [ ] Pick up paycheck
+- [ ] Cash paycheck
+- [x] Get milk
 
 ![](https://komarev.com/ghpvc/?username=gimpfrot&color=782626)

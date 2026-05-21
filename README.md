@@ -11,3 +11,17 @@
 <img src="https://i.postimg.cc/gkMqsFsQ/tumblr-537f96cf514775edd0e482863e4d2a8c-30a8286a-400.png">
 
 <a name="my-custom-anchor-point"></a>
+
+
+
+
+
+> git init
+>
+> git add README.md
+>
+> git commit -m "readme.md"
+>
+> git remote add origin https://github.com/MercyJames/MyRepo.git
+>
+> git push -u origin master

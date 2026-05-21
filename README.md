@@ -48,13 +48,6 @@ $${\color{#C92C2C}imㅤaㅤfreakㅤandㅤiㅤloveㅤhangingㅤoutㅤwithㅤmyㅤ
 
 </p>
 
-
-- [ ] Pick up paycheck
-- [ ] Cash paycheck
-- [x] Get milk
- 
-![](https://komarev.com/ghpvc/?username=gimpfrot&color=782626)
-
 <p align="center">
 
 <img src="https://i.postimg.cc/gkMqsFsQ/tumblr-537f96cf514775edd0e482863e4d2a8c-30a8286a-400.png">
@@ -62,3 +55,8 @@ $${\color{#C92C2C}imㅤaㅤfreakㅤandㅤiㅤloveㅤhangingㅤoutㅤwithㅤmyㅤ
 </p>
 
 
+- [ ] Pick up paycheck
+- [ ] Cash paycheck
+- [x] Get milk
+ 
+![](https://komarev.com/ghpvc/?username=gimpfrot&color=782626)

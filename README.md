@@ -26,23 +26,29 @@
 
 <img src="https://i.postimg.cc/MpF562jF/tumblr-11694261dc90ca2c30a0835bd5209650-70a28bd5-1280.jpg">
 
+$${\color{#C92C2C}ㅤdisc: ㅤ ㅤ biggestfootestㅤ:-) }$$
+
 <img src="https://64.media.tumblr.com/f9890d4187edb6396b6cbd26bd1f1377/0b74116f9a4aede1-0e/s1280x1920/6d815d2aeaad31af1309131219cec7249e11eb40.gifv">
 
+<p align="center">
 
+<h align="center">$${\color{#DE3535}  finnㅤㅤ,ㅤㅤhe/him}$$</h>
 
+$${\color{#D13030} 16ㅤㅤㅤ,ㅤㅤㅤoctoberㅤ6ㅤ2009ㅤ🎂}$$
 
+</p>
+
+<p align="center">
 
 <img src="https://i.postimg.cc/MpF562jF/tumblr-11694261dc90ca2c30a0835bd5209650-70a28bd5-1280.jpg">
 
 </p>
 
-<h2 align="center">"⋅⋆ ☆ ⋆ Info ⋆ ☆ ⋆⋅"</h2>
+
+<h2 align="center">⋅⋆ ☆ ⋆ ⋆ ☆ ⋆⋅</h2>
 
 <p align="center">
 
- $${\color{#DE3535}  myㅤnameㅤisㅤfinnㅤ👅 ㅤ}$$
- $${\color{#D13030}imㅤ16ㅤturningㅤ17,ㅤmyㅤbirthdayㅤisㅤoctoberㅤ6ㅤ2009. }$$
-$${\color{#C92C2C}imㅤaㅤfreakㅤandㅤiㅤloveㅤhangingㅤoutㅤwithㅤmyㅤfriends.ㅤdon’tㅤbeㅤscaredㅤtoㅤpmㅤmeㅤ:-) }$$
 
 </p>
 

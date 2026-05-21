@@ -2,7 +2,7 @@
  >[!WARNING]
 > Guns don't kill people, I do.
 
- <h1 align="center">Bring out the **GIMP**</h1>
+ <h1 align="center">Bring out the GIMP</h1>
 
 <p align="center">
 <img src="https://i.postimg.cc/kMvyVtbV/tumblr-3d13301fedec7311a03f402ad822fbea-b8e49728-400.png">
@@ -22,14 +22,12 @@
 </p>
 
 
-<p align="center">
- 
-
 - [ ] Pick up paycheck
 - [ ] Cash paycheck
 - [x] Get milk
-
+ 
 ![](https://komarev.com/ghpvc/?username=gimpfrot&color=782626)
 
 
-</p>
+
+

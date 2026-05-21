@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎   <a href="https://gimplr.atabook.org/">ata</a>book   ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎      <a href="[https://gimplr.atabook.org/](https://en.pronouns.page/@doitsu)">prns</a>page
+  ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎   <a href="https://gimplr.atabook.org/">ata</a>book   ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎      <a href="https://en.pronouns.page/@doitsu">prns</a>page
 
 </p>
 

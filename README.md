@@ -8,6 +8,16 @@
 
 <img src="https://i.postimg.cc/tRnbdWbq/Untitled4-20260521110801.png">
 
+</p>
+
+<p align="center">
+
+  ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎   <a href="https://gimplr.atabook.org/">ata</a>book   ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎      <a href="[https://gimplr.atabook.org/](https://en.pronouns.page/@doitsu)">prns</a>page
+
+</p>
+
+<p align="center">
+
  <h1 align="center">"Bring out the GIMP."</h1>
 
  </p>

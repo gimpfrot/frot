@@ -34,8 +34,6 @@
 
 <img src="https://i.postimg.cc/MpF562jF/tumblr-11694261dc90ca2c30a0835bd5209650-70a28bd5-1280.jpg">
 
-<img src="https://i.postimg.cc/gkMqsFsQ/tumblr-537f96cf514775edd0e482863e4d2a8c-30a8286a-400.png">
-
 </p>
 
 <h2 align="center">"⋅⋆ ☆ ⋆ Info ⋆ ☆ ⋆⋅"</h2>
@@ -57,6 +55,10 @@ $${\color{#C92C2C}imㅤaㅤfreakㅤandㅤiㅤloveㅤhangingㅤoutㅤwithㅤmyㅤ
  
 ![](https://komarev.com/ghpvc/?username=gimpfrot&color=782626)
 
+<p align="center">
 
+<img src="https://i.postimg.cc/gkMqsFsQ/tumblr-537f96cf514775edd0e482863e4d2a8c-30a8286a-400.png">
+
+</p>
 
 

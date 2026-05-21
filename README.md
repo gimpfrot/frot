@@ -14,10 +14,7 @@
  ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://gimplr.atabook.org/">ata</a>$${\color{#DE3535}book ㅤ}$$ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://en.pronouns.page/@doitsu">prns</a>$${\color{#DE3535}page ㅤ}$$ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://spacehey.com/biggestfootest">space</a>$${\color{#DE3535}hey ㅤ}$$
 
 </p>
-ㅤ ‎ ‎
-ㅤ ‎ ‎
-ㅤ ‎ ‎
-
+ㅤ 
 <p align="center">
 
  <h1 align="center">"Bring out the GIMP."</h1>

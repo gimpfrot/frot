@@ -46,7 +46,7 @@
  $${\color{#D13030}imㅤ16ㅤturningㅤ17,ㅤmyㅤbirthdayㅤisㅤoctoberㅤ6ㅤ2009. }$$
 $${\color{#C92C2C}imㅤaㅤfreakㅤandㅤiㅤloveㅤhangingㅤoutㅤwithㅤmyㅤfriends.ㅤdon’tㅤbeㅤscaredㅤtoㅤpmㅤmeㅤ:-) }$$
 
-<img src="https://i.postimg.cc/BbBFb6q6/tumblr-96d7447d71ac5b5d02bd359c9bef96ab-9a39b713-1280.png"/><a href="">.....IVO.....</a>
+<img src=""/><a href=""></a>
 
 </p>
 

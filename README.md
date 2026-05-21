@@ -12,7 +12,7 @@
 
 <p align="center">
 
- ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://gimplr.atabook.org/">ata</a>book ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://en.pronouns.page/@doitsu">prns</a>page ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://spacehey.com/biggestfootest">space</a>hey
+ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://gimplr.atabook.org/">ata</a>$${\color{#DE3535}book ㅤ}$$ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://en.pronouns.page/@doitsu">prns</a>$${\color{#DE3535}page ㅤ}$$ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://spacehey.com/biggestfootest">space</a>$${\color{#DE3535}hey ㅤ}$$
 
 </p>
 
@@ -44,7 +44,11 @@
  $${\color{#D13030}imㅤ16ㅤturningㅤ17,ㅤmyㅤbirthdayㅤisㅤoctoberㅤ6ㅤ2009. }$$
 $${\color{#C92C2C}imㅤaㅤfreakㅤandㅤiㅤloveㅤhangingㅤoutㅤwithㅤmyㅤfriends.ㅤdon’tㅤbeㅤscaredㅤtoㅤpmㅤmeㅤ:-) }$$
 
-<img src=""/><a href=""></a>
+</p>
+
+<p align="center">
+
+<h2 align="center"> <img src="https://i.postimg.cc/cLxJ0hgC/tumblr-c63c439224954c7f7b188139bbc81ace-a9b96621-400.webp"> <img src="https://i.postimg.cc/0Nr2JN0X/tumblr-51a9f25a54d9315941e490a3639a5cc2-97d07008-400.webp"> <img src="https://i.postimg.cc/hvRSw1Rd/tumblr-1b4a73974811fd795ed41a9cec0c02c6-cb6877b5-400.webp"> </h2>
 
 </p>
 

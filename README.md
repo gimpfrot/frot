@@ -17,7 +17,7 @@
 ㅤ 
 <p align="center">
 
- <h1 align="center">"Bring out the GIMP."</h1>
+ <h1 align="center"> "Bring out the GIMP." </h1>
 
  </p>
 
@@ -37,13 +37,20 @@ $${\color{#D13030} 16ㅤㅤㅤ,ㅤㅤㅤoctoberㅤ6ㅤ2009ㅤ🎂}$$
 
 </p>
 
- ㅤ ㅤ ‎<a href="https://github.com/gimpfrot/dni/blob/main/README.md">DNI</a>‎  ㅤ ㅤ ㅤ ㅤ 
+ ㅤ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ㅤ ‎<a href="https://github.com/gimpfrot/dni/blob/main/README.md">DNI</a>‎  ㅤ ㅤ ㅤ ㅤ ‎ ‎ ‎ ‎ ‎ ‎ ㅤ ‎ ‎ ‎ ‎  ‎ ‎ ‎ <a href="https://github.com/gimpfrot/lovemail/blob/main/README.md">LOVEMAIL</a>‎ 
 
 <p align="center">
 
 <img src="https://i.postimg.cc/MpF562jF/tumblr-11694261dc90ca2c30a0835bd5209650-70a28bd5-1280.jpg">
 
 </p>
+
+<p align="center">
+
+<img src="https://i.postimg.cc/c4cmWwjN/tumblr-537f96cf514775edd0e482863e4d2a8c-30a8286a-400.png">
+
+</p>
+
 
 - [ ] Pick up paycheck
 - [ ] Cash paycheck

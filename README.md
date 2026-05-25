@@ -37,6 +37,8 @@ $${\color{#D13030} 16ㅤㅤㅤ,ㅤㅤㅤoctoberㅤ6ㅤ2009ㅤ🎂}$$
 
 </p>
 
+ ㅤ ㅤ ‎<a href="https://github.com/gimpfrot/dni/blob/main/README.md">DNI</a>‎  ㅤ ㅤ ㅤ ㅤ 
+
 <p align="center">
 
 <img src="https://i.postimg.cc/MpF562jF/tumblr-11694261dc90ca2c30a0835bd5209650-70a28bd5-1280.jpg">
